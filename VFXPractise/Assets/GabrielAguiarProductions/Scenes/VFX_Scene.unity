@@ -1312,10 +1312,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1147952241468480691, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1743369192178589184, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2008005770497127182, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3188014409056952424, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3419786170840187982, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827007570116129886, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3837430301450893054, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5032049320672079330, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
         type: 3}
       propertyPath: m_Name
       value: VFX_AOE_v1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5765990726632037237, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6490479386294472872, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626595516881687184, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
         type: 3}
@@ -1365,6 +1415,11 @@ PrefabInstance:
     - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7677053061993821692, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
