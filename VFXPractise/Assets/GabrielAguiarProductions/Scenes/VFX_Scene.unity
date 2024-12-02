@@ -1312,6 +1312,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1743369192178589184, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1743369192178589184, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 3827007570116129886, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
         type: 3}
       propertyPath: InitialModule.startSize.scalar
