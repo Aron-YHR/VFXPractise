@@ -1304,7 +1304,7 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!1001 &7196894117482164292
+--- !u!1001 &4090140229522872615
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1312,138 +1312,69 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5032049320672079330, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
-        type: 3}
-      propertyPath: m_Name
-      value: VFX_AOE_Arcane_v1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6766741618753019151, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0,
+    - target: {fileID: 232314526354001525, guid: 5194be86ea2ee81449c26ea35886abbf,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5538623079856251281, guid: 5194be86ea2ee81449c26ea35886abbf,
+        type: 3}
+      propertyPath: m_Name
+      value: VFX_AOE_Nature_v1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 45c3cdc7a12f12a4aae6318ee3ca6ce0, type: 3}
---- !u!1001 &7845790504604450238
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6086197097167181546, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_Name
-      value: VFX_AOE_Fire_v1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7776891692557842500, guid: c21cfa5fa867f2b499991a3825042d01,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c21cfa5fa867f2b499991a3825042d01, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 5194be86ea2ee81449c26ea35886abbf, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1431838743}
-  - {fileID: 7196894117482164292}
-  - {fileID: 7845790504604450238}
+  - {fileID: 4090140229522872615}
