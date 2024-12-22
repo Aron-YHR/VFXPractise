@@ -23,8 +23,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Trail01_Add
-  m_Shader: {fileID: -6465566751694194690, guid: 9a807d124a67f3f43b911ce82cb17ee2,
+  m_Name: Trail01_AddScroll
+  m_Shader: {fileID: -6465566751694194690, guid: 1cae094e802de2348aebe6cb5990d8eb,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -32,7 +32,7 @@ Material:
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords:
   - _DOUBLESIDED_ON
-  m_LightmapFlags: 4
+  m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
   m_CustomRenderQueue: 3000
@@ -75,6 +75,7 @@ Material:
     - _CullMode: 0
     - _CullModeForward: 0
     - _DepthOffsetEnable: 0
+    - _DistortionAmount: 0.05
     - _DoubleSidedEnable: 1
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 2
@@ -83,6 +84,7 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 0
     - _ExcludeFromTUAndAA: 0
+    - _NoiseScale: 10
     - _OpaqueCullMode: 2
     - _PerPixelSorting: 0
     - _RenderQueueType: 4
@@ -111,5 +113,8 @@ Material:
     - _Color: {r: 2.6082377, g: 2.6082377, b: 2.6082377, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainSpeed: {r: -0.3, g: 0, b: 0, a: 0}
+    - _NoiseSpeed: {r: -0.6, g: 0, b: 0, a: 0}
+    - _Vector4: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
