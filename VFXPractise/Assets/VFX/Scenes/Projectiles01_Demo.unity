@@ -3668,11 +3668,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: vfx_Projectile_Electric_v1
       objectReference: {fileID: 0}
-    - target: {fileID: 484088718026239522, guid: 34b6f8fcb1706944b895608682f7c101,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1535760827086318865, guid: 34b6f8fcb1706944b895608682f7c101,
         type: 3}
       propertyPath: m_LocalPosition.x
